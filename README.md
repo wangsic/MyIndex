@@ -4,11 +4,14 @@
 扫码关注公众号：
 
 
-![qrcode](pics/qrcode.jpg)
+![qrcode](https://raw.githubusercontent.com/wangsic/typora-plugins-win-img/main/typora202103/15/102438-798837.jpeg)
 
 文章索引,与其它干货收藏
 ---
 
+- [你是否具备了创业能力](https://mp.weixin.qq.com/s?__biz=MzI2NDQ2NTYwNg==&mid=2247483814&idx=1&sn=afcb5008eb976fa4c5dacbd0ecdbb1e5&chksm=eaad7c0fdddaf519eda2fa5ac7f1faeacd602deabac08270c1653e61b2a35a76aa035449f7a4&token=1735721677&lang=zh_CN#rd)
+- [陶行知四颗糖的故事及启示](https://mp.weixin.qq.com/s?__biz=MzI2NDQ2NTYwNg==&mid=2247483808&idx=1&sn=48a420e411243cbbc7f1c6556357990b&chksm=eaad7c09dddaf51f0faee498288838f6aedac41ccd9aee0ed5d94db3f2d929534eb2c8860296&token=1735721677&lang=zh_CN#rd)
+- [影响地图：产品规划和需求分析的利器](https://mp.weixin.qq.com/s?__biz=MzI2NDQ2NTYwNg==&mid=2247483796&idx=1&sn=c94a7c2b8a4f5d3f5213f5057290f754&chksm=eaad7c3ddddaf52b632e1b6c3d78550428ad813af273c37133b6c4f03602a367b18efc6c0ea7&token=1735721677&lang=zh_CN#rd)
 - [【实践】OKR 填写模板及案例](https://mp.weixin.qq.com/s?__biz=MzI2NDQ2NTYwNg==&mid=2247483771&idx=1&sn=74f997fd107e34bab06709d0db59bba6&chksm=eaad7cd2dddaf5c4092be16c89859032167eafb0d9d2157190c6c66f5d3ec032d1e5d91a12bc&token=1101060108&lang=zh_CN#rd)
 - [OKR目标管理方法系列之KR的万能公式](https://mp.weixin.qq.com/s?__biz=MzI2NDQ2NTYwNg==&mid=2247483757&idx=1&sn=5070763a6d4fe46fc22e37c3a777e020&chksm=eaad7cc4dddaf5d2ceb7ed4f1dbfa6baccf1d530dfb7a2121fdef1125366602cb379dee389ce&token=1101060108&lang=zh_CN#rd)
 - [初步认识OKR目标制定法](https://mp.weixin.qq.com/s?__biz=MzI2NDQ2NTYwNg==&mid=2247483752&idx=1&sn=c3df119a20e58a0dc3e674458acedcfe&chksm=eaad7cc1dddaf5d714568d3dffcbfef49266a8df8234af525e631bcab8ccd921d669f120e61c&token=1101060108&lang=zh_CN#rd)
