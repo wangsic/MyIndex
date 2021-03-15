@@ -3,8 +3,10 @@
 ### 欢迎来到思畅淋漓的交流平台 在这里可以学习并交流以下内容:提高效率，职场生活，开发类常识，生活百科,育儿经验等等。期待您的互动。一颗红心，拥抱变化。
 扫码关注公众号：
 
+![MyScan.jpeg](https://i.loli.net/2021/03/15/2S6oRK8WOBENAD4.jpg)
 
-![qrcode](https://raw.githubusercontent.com/wangsic/typora-plugins-win-img/main/typora202103/15/102438-798837.jpeg)
+
+
 
 文章索引,与其它干货收藏
 ---
